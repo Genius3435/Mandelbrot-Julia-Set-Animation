@@ -6,6 +6,6 @@ Move your mouse around the left half of the screen, and watch the corresponding 
 
 ## How to run the program
 
-You need to have `rust` (at least 1.50) installed. You can install it [here](https://www.rust-lang.org/tools/install).
+You need to have `rust` (at least 1.50) installed. You can install it [here](https://www.rust-lang.org/tools/install) or if you have [homebrew](https://docs.brew.sh/Installation) on MacOS, just run `brew install rustup` and `rustc --version` to check that you have the right version.
 
 Then `git clone` this repo (or download with the button that says `Code`), and run `cargo run --release` in the terminal.
